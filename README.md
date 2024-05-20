@@ -15,7 +15,7 @@ API desarrollada para el proceso de postulación a Buda para el cargo de softwar
 1. Clonar el Repositorio
 
 ```bash
-git clone https://
+git clone https://github.com/hebusch/buda-spread-api.git
 cd buda-spread-api
 ```
 
