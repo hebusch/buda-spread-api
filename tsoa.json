@@ -1,0 +1,18 @@
+{
+  "entryFile": "src/app.ts",
+  "noImplicitAdditionalProperties": "throw-on-extras",
+  "controllerPathGlobs": ["src/api/controllers/**/*.ts"],
+  "spec": {
+    "outputDirectory": "public",
+    "specVersion": 3
+  },
+  "routes": {
+    "routesDir": "src/api/routes"
+  },
+  "models": {
+    "ServiceResponse": "./src/common/models/serviceResponse.ts",
+    "Alert": "./src/api/models/alerts.ts",
+    "AlertResponse": "./src/api/models/alerts.ts",
+    "AlertManyResponse": "./src/api/models/alerts.ts"
+  }
+}
