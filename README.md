@@ -8,6 +8,7 @@ API desarrollada para el proceso de postulación a Buda para el cargo de softwar
 - **TypeScript**
 - **Jest** y **Supertest** para el test automatizado
 - **Swagger** para la documentación
+- **Docker** para el ambiente contenerizado
 - **SQLite3** para almacenar las alertas
 
 ## Instalación y Configuración
